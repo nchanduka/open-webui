@@ -40,7 +40,6 @@ Please follow the instructions below carefully to ensure consistency, best pract
 
 2. Naming Conventions:
     - Use descriptive names for variables, functions, classes, and files that reflect the purpose of the code element.
-    - Apply a camelCase case style for names for variables, functions, classes, and files.
 
 3. Code Description:
    - At the beginning of the code, include a detailed comment describing the purpose of the code, its functionality, and any assumptions made.
